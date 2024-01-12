@@ -14,4 +14,4 @@
   <summary><b>:computer: &nbsp;Skills</b></summary>
   <br/>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,,bootstrap,python,linux,express,mongodb,nodejs,photoshop,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,bootstrap,python,linux,express,mongodb,nodejs,photoshop,vscode)](https://skillicons.dev)
