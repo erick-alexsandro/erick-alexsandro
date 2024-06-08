@@ -2,7 +2,7 @@
 # Hi. :wave: My name is Erick Alexsandro, and I'm a Computer Science student.
 
 &nbsp;&nbsp;&nbsp;☕: &nbsp;Passionate about problem-solving and technology.\
-&nbsp;&nbsp;&nbsp;💻: &nbsp;Currently focusing on web development, networking, and cybersecurity.\
+&nbsp;&nbsp;&nbsp;💻: &nbsp;Currently focusing on web and .NET development.\
 &nbsp;&nbsp;&nbsp;🇧🇷: &nbsp;Brazilian from Belo Horizonte, Minas Gerais.
 
 <p align="center">
