@@ -2,7 +2,7 @@
 # My name is Erick Alexsandro
 
 # 💫 About Me:
-Passionate about problem-solving and technology | Currently focusing on web and .NET development | 🇧🇷 Brazilian from Belo Horizonte, Minas Gerais | 💻 Computer Science student. | VueJS | C# | MongoDB | ASP.NET | .NET Core | JavaScript | Node.js
+Passionate about problem-solving and technology | Currently focusing on web and .NET development | 🇧🇷 Brazilian from Belo Horizonte, Minas Gerais | 💻 Computer Science student | VueJS | C# | MongoDB | ASP.NET | .NET Core | JavaScript | Node.js
 
 ## 🌐 Socials:
   <a href="mailto:erickalexsandrocontato@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
